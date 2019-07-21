@@ -1,0 +1,10 @@
+name: stringlike-utf8
+
+dependencies:
+- base
+- bytestring
+- text
+
+library:
+  source-dirs: src
+  exposed-modules: Data.Stringlike.UTF8
